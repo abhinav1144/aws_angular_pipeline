@@ -1,1 +1,1 @@
-mkdir dd
+mkdir dd /home/ubuntu
