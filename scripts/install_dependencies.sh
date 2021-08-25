@@ -1,3 +1,2 @@
-cd /home/ubuntu/dotx/dotx-portal-ui
-sudo npm install
-sudo npm audit fix
+sudo npm install /home/ubuntu/dotx/dotx-portal-u/
+sudo npm audit fix /home/ubuntu/dotx/dotx-portal-u/
