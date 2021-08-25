@@ -1,1 +1,1 @@
-ls -la
+sudo service nginx restart
