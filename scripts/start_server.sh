@@ -1,1 +1,4 @@
-sudo service nginx start
+cd /home/ubuntu/dotx/dotx-portal-ui
+sudo npm install
+sudo npm audit fix
+sudo npm run build
